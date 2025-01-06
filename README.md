@@ -7,7 +7,9 @@ Crea un programa en java que, **dado un número entero de horas asignado a una v
 Cantidad de horas totales: 1500
 
 Semanas: 8
+
 Días: 6
+
 Horas: 12 
 
 ---
@@ -203,16 +205,23 @@ System.out.println(n3);
 ## EJERCICIO 6
 1. **Resolver los enunciados desarrollando el código.**
 2. Dados **n1 = 5, n2 = 10 y n3 = 20**, informar:
+
    a) n1 + n2
+
    b) n3 - n1
+
    c) n1 * n3
+
    d) n3 / n2
 
 ---
 ## EJERCICIO 7:
 1. **Resolver los enunciados desarrollando el código.**
 2. Dados **n1 = 10, n2 = 20 y n3 = 30**, informar:
+
    a) El total.
+
    b) El promedio.
+
    c) El resto entre n2 y n1.
 
